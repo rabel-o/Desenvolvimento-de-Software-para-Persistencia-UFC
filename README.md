@@ -1,1 +1,1 @@
-Repositório destinado à práticas da cadeira de Desenvolvimrnto de Software para Persistência.
+Repositório destinado à práticas da cadeira de Desenvolvimento de Software para Persistência.
