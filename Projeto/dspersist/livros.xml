@@ -1,0 +1,79 @@
+<ArrayList>
+  <item>
+    <titulo>O Pequeno Principe</titulo>
+    <autor>Antoine Saint-Exupery</autor>
+    <isbn>15616268929</isbn>
+    <editora>Moderna</editora>
+    <anoPublicacao>1943</anoPublicacao>
+  </item>
+  <item>
+    <titulo>A Critica da Razao Pura</titulo>
+    <autor>Immanuel Kant</autor>
+    <isbn>51651651351313</isbn>
+    <editora>Edipro</editora>
+    <anoPublicacao>1781</anoPublicacao>
+  </item>
+  <item>
+    <titulo>O Retorno de Sherlock Holmes</titulo>
+    <autor>Sir Arthur Conan Doyle</autor>
+    <isbn>56153168351816</isbn>
+    <editora>Embassy Books</editora>
+    <anoPublicacao>1905</anoPublicacao>
+  </item>
+  <item>
+    <titulo>Carrie</titulo>
+    <autor>Stephen King</autor>
+    <isbn>26513518682531</isbn>
+    <editora>Suma</editora>
+    <anoPublicacao>1974</anoPublicacao>
+  </item>
+  <item>
+    <titulo>Diario de um Banana</titulo>
+    <autor>Jeff Kinney</autor>
+    <isbn>57516816818</isbn>
+    <editora>V &amp; R</editora>
+    <anoPublicacao>2007</anoPublicacao>
+  </item>
+  <item>
+    <titulo>Star Wars: Livro dos Sith</titulo>
+    <autor>Daniel Wallace</autor>
+    <isbn>6513513518</isbn>
+    <editora>EB</editora>
+    <anoPublicacao>2014</anoPublicacao>
+  </item>
+  <item>
+    <titulo>Star Wars: Darth Plagueis</titulo>
+    <autor>James Luceno</autor>
+    <isbn>351863531861</isbn>
+    <editora>EB</editora>
+    <anoPublicacao>2012</anoPublicacao>
+  </item>
+  <item>
+    <titulo>Star Wars: Estrelas Perdidas</titulo>
+    <autor>Claudia Gray</autor>
+    <isbn>3515313516</isbn>
+    <editora>Seguinte</editora>
+    <anoPublicacao>2015</anoPublicacao>
+  </item>
+  <item>
+    <titulo>Star Wars: Bloodline</titulo>
+    <autor>Claudia Gray</autor>
+    <isbn>35232186854685</isbn>
+    <editora>Seguinte</editora>
+    <anoPublicacao>2016</anoPublicacao>
+  </item>
+  <item>
+    <titulo>Star Wars: Thrawn</titulo>
+    <autor>Timothy Zahn</autor>
+    <isbn>3513135153131</isbn>
+    <editora>Marvel Comics</editora>
+    <anoPublicacao>2017</anoPublicacao>
+  </item>
+  <item>
+    <titulo>CR Flamengo</titulo>
+    <autor>Maracana</autor>
+    <isbn>5i9e</isbn>
+    <editora>Brasileirao</editora>
+    <anoPublicacao>1920</anoPublicacao>
+  </item>
+</ArrayList>

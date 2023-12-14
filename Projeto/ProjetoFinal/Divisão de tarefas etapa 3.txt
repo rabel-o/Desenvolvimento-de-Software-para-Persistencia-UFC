@@ -1,0 +1,25 @@
+Divisão de tarefas etapa 3:
+
+Gustavo Rabelo: 
+Interface Mongo Leitor
+Interface Mongo Livro
+Interface Mongo Reserva
+Interface DAO Leitor
+Interface DAO Livro
+Interface DAO Reserva
+Menu Leitor
+Menu Livro
+Application.properties
+Application.mongo
+
+Kauan Perdigão:
+Interface JPA Leitor
+Interface JPA Livro
+Interface JPA Reserva
+Entidade Leitor
+Entidade Livro
+Entidade Reserva
+Menu Principal
+Menu Reserva
+Application.pg
+Application.sqlite

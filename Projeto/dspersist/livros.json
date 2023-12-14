@@ -1,0 +1,67 @@
+[ {
+  "titulo" : "O Pequeno Principe",
+  "autor" : "Antoine Saint-Exupery",
+  "isbn" : "15616268929",
+  "editora" : "Moderna",
+  "anoPublicacao" : "1943"
+}, {
+  "titulo" : "A Critica da Razao Pura",
+  "autor" : "Immanuel Kant",
+  "isbn" : "51651651351313",
+  "editora" : "Edipro",
+  "anoPublicacao" : "1781"
+}, {
+  "titulo" : "O Retorno de Sherlock Holmes",
+  "autor" : "Sir Arthur Conan Doyle",
+  "isbn" : "56153168351816",
+  "editora" : "Embassy Books",
+  "anoPublicacao" : "1905"
+}, {
+  "titulo" : "Carrie",
+  "autor" : "Stephen King",
+  "isbn" : "26513518682531",
+  "editora" : "Suma",
+  "anoPublicacao" : "1974"
+}, {
+  "titulo" : "Diario de um Banana",
+  "autor" : "Jeff Kinney",
+  "isbn" : "57516816818",
+  "editora" : "V & R",
+  "anoPublicacao" : "2007"
+}, {
+  "titulo" : "Star Wars: Livro dos Sith",
+  "autor" : "Daniel Wallace",
+  "isbn" : "6513513518",
+  "editora" : "EB",
+  "anoPublicacao" : "2014"
+}, {
+  "titulo" : "Star Wars: Darth Plagueis",
+  "autor" : "James Luceno",
+  "isbn" : "351863531861",
+  "editora" : "EB",
+  "anoPublicacao" : "2012"
+}, {
+  "titulo" : "Star Wars: Estrelas Perdidas",
+  "autor" : "Claudia Gray",
+  "isbn" : "3515313516",
+  "editora" : "Seguinte",
+  "anoPublicacao" : "2015"
+}, {
+  "titulo" : "Star Wars: Bloodline",
+  "autor" : "Claudia Gray",
+  "isbn" : "35232186854685",
+  "editora" : "Seguinte",
+  "anoPublicacao" : "2016"
+}, {
+  "titulo" : "Star Wars: Thrawn",
+  "autor" : "Timothy Zahn",
+  "isbn" : "3513135153131",
+  "editora" : "Marvel Comics",
+  "anoPublicacao" : "2017"
+}, {
+  "titulo" : "CR Flamengo",
+  "autor" : "Maracana",
+  "isbn" : "5i9e",
+  "editora" : "Brasileirao",
+  "anoPublicacao" : "1920"
+} ]

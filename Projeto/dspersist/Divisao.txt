@@ -1,0 +1,13 @@
+Luís Gustavo Rabêlo de Oliveira - 540974
+Responsável por:
+converteDados.java
+calculaHash.java
+contaEntidades.java
+Main.java
+
+
+Kauan Oliveira Perdigão Lopes - 514867
+Responsável por:
+Livro.java
+compactaArquivo.java
+inserirEntidade.java
